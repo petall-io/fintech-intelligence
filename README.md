@@ -34,7 +34,7 @@ An automated data pipeline that tracks news coverage across 5 major fintech comp
 ## Project Structure
 
 | File | Description |
-│---|---|
+|---|---|
 | 01_collector.py | Pulls articles from NewsAPI and stores in SQLite |
 | 02_analyzer.py | Sends articles to Claude API for sentiment analysis |
 | 03_analytics.py | SQL queries for insights (terminal output) |
