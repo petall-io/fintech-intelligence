@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 fintech.db
 articles_analyzed.csv
+all-data.csv
+ml_dataset.csv
+live_predictions.csv
+*.pkl
